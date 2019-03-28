@@ -1,0 +1,4 @@
+## CENTER .gitignore
+
+.vs/
+_*/
