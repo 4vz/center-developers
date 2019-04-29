@@ -8,6 +8,6 @@ class Main extends CI_Controller{
 	
 	public function index()
 	{		
-		$this->load->view($this->config->item('theme_name').'underconstruction');
+		$this->load->view($this->config->item('theme_name').'developer');
 	}
 }

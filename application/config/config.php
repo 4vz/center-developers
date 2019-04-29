@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['apps_path']='git/center-developers';
-$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/'.$config['apps_path'].'/';
+$config['apps_path']='';
+$config['base_url'] = 'https://'.$_SERVER['HTTP_HOST'].'/';
 
 /*
 |--------------------------------------------------------------------------
